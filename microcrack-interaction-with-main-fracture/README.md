@@ -1,7 +1,6 @@
 # Microcrack Generation Simulation
 
-## Purpose
-
+Scripts are similar to those in microcrack-generation with the addition of a two-way interaction mechanism between the main fracture and the field of microcracks.
 
 
 ## Scripts
@@ -11,4 +10,7 @@
 <p>input_parameters.py</p>
 <p>micro_VoidCrack_pointwiseStress_interact_V4.py</p>
 <p>stresses.py</p>
+
+
+
 
