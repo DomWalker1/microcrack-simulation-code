@@ -1,5 +1,6 @@
-# microcrack-simulation-code
-Simulation Code for 2020 Thesis - Microcracks in Quasi-Brittle Material
+# A Micromechanical Model for Fracture Process Zone Generation and Microcrack Interactions with a Main Fracture 
+
+This repositry contains the simulation code for my 2020 Thesis on the topic of Microcracks in Quasi-Brittle Material
 Author: Dominic Walker
 
 ## Abstract ##
